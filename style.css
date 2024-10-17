@@ -1,0 +1,71 @@
+.part1{
+    background-image: url("https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=1874&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    height: 450px;
+    padding-bottom: 20px;
+}
+
+.nav_bar{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+#search{
+    margin: -2px 97%;
+}
+
+.text{
+   position: relative;
+   left:35%;
+   top:90px;
+   width:450px;
+   text-align: center;
+   color: rgb(217, 217, 217);
+   padding:10px 25px;
+   background-color: rgb(61, 61, 61);
+}
+
+.main_head{
+    position: relative;
+    left:35%;
+    top:25px;
+    width:450px;
+    text-align: center;
+    color: rgba(117, 107, 107, 0.582);
+    padding:10px 25px;
+}
+
+.para{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.my_name{
+    padding-left: 20%;
+}
+
+.portfolio{
+    display: flex;
+    gap: 35px;
+}
+
+.portfolio_para{
+    font-size: 20px;
+}
+
+.terms{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: grey;
+}
+
+.work{
+    padding-top: 20px;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    
+}
